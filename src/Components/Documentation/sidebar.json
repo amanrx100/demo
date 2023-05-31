@@ -1,0 +1,215 @@
+[
+    {
+        "title": "Overview",
+        "childrens": [
+            {
+                "title": "Emeelan Docs",
+                "path": "/"
+            },
+            {
+                "title": "Why Emeelan?",
+                "path": "/about"
+            }
+        ]
+    },
+    {
+        "title": "Getting Started",
+        "childrens": [
+            {
+                "title": "Installing Emeelan CLI",
+                "path": "/"
+            },
+            {
+                "title": "Installing Emeelan Pro",
+                "path": "/"
+            },
+            {
+                "title": "Writing Your First Test",
+                "path": "/"
+            },
+            {
+                "title": "Core Concepts",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Reference",
+        "childrens": [
+            {
+                "title": "Test Scripts",
+                "path": "/"
+            },
+            {
+                "title": "Emeelan CLI",
+                "path": "/"
+            },
+            {
+                "title": "Emeelan pro CLI",
+                "path": "/"
+            },
+            {
+                "title": "Testing HTTP",
+                "path": "/"
+            },
+            {
+                "title": "Testing with Playwright",
+                "path": "/"
+            },
+            {
+                "title": "Testing Socket.IO",
+                "path": "/"
+            },
+            {
+                "title": "Testing WebSockets",
+                "path": "/"
+            },
+            {
+                "title": "Extension APIs",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Guides",
+        "childrens": [
+            {
+                "title": "Distributed tests on AWS Lambda",
+                "path": "/"
+            },
+            {
+                "title": "Running Emeelan in Docker",
+                "path": "/"
+            },
+            {
+                "title": "Running Tests with Emeelan Pro",
+                "path": "/"
+            },
+            {
+                "title": "Using Private npm packages",
+                "path": "/"
+            },
+            {
+                "title": "Configuring Aurora Serverless v1",
+                "path": "/"
+            },
+            {
+                "title": "Getting started with Emeelan Cloud",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Plugins",
+        "childrens": [
+            {
+                "title": "Emeelan Plugins",
+                "path": "/"
+            },
+            {
+                "title": "Expectations & Assertions",
+                "path": "/"
+            },
+            {
+                "title": "Publishing Metrices / Monitoring",
+                "path": "/"
+            },
+            {
+                "title": "Per-endpoint(URL) metrics",
+                "path": "/"
+            },
+            {
+                "title": "HLS(HTTP Live Streaming)",
+                "path": "/"
+            },
+            {
+                "title": "HTTP Fuzz Testing",
+                "path": "/"
+            },
+            {
+                "title": "HTTP File Uploads",
+                "path": "/"
+            },
+            {
+                "title": "SSL Client Certificate Auth",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Integrations",
+        "childrens": [
+            {
+                "title": "AWS CodeBuild",
+                "path": "/"
+            },
+            {
+                "title": "Azure DevOps",
+                "path": "/"
+            },
+            {
+                "title": "CircleCI",
+                "path": "/"
+            },
+            {
+                "title": "Github Actions",
+                "path": "/"
+            },
+            {
+                "title": "GitLab CI/CD",
+                "path": "/"
+            },
+            {
+                "title": "Jenkins",
+                "path": "/"
+            },
+            {
+                "title": "Keptn",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Playground",
+        "childrens": [
+            {
+                "title": "Emeelan Playground",
+                "path": "/"
+            }
+        ]
+    },
+    {
+        "title": "Resources",
+        "childrens": [
+            {
+                "title": "Glossery",
+                "path": "/"
+            },
+            {
+                "title": "Telemetry",
+                "path": "/"
+            },
+            {
+                "title": "Changelog",
+                "path": "/"
+            },
+            {
+                "title": "FAQ",
+                "path": "/"
+            },
+            {
+                "title": "Limits",
+                "path": "/"
+            },
+            {
+                "title": "Security Overview",
+                "path": "/"
+            },
+            {
+                "title": "Solution Security",
+                "path": "/"
+            }
+        ]
+    }
+    
+]

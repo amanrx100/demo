@@ -10,10 +10,10 @@ import Documentation from './Components/Documentation/Documentation';
 function App() {
   return (
     <div>
-      {/* <Navbar/>
-      <Home />  */}
-      <Documentation />
-      {/* <Footer/> */}
+      <Navbar/>
+      <Home /> 
+      {/* <Documentation /> */}
+      <Footer/>
     </div>
   );
 }
